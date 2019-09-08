@@ -1,0 +1,54 @@
+body {
+    font-size: 12px;
+}
+.banner {
+    background-image: url("images/wavyboi.jpg");
+    height: 250px;
+    background-size: cover;
+}
+.banner h1 {
+    font-size: 50px;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    padding-top: 50px;
+    font-weight: 100px;
+    text-shadow: 4px 4px 6px black;
+
+}
+
+.birth {
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 100px;
+    color: black;
+}
+h1 {
+    color: #155432;
+    font-size: 3em;
+}
+h2 {
+    color: #2c965d;
+    font-size: 2em;
+}
+.interview {
+    font-style: italic
+}
+.interview:hover {
+    color: #60f086;
+}
+.JohnAlone {
+    width: 350px;
+}
+.JohnGroup {
+    width: 500px;
+}
+#copyright {
+    text-align: right;
+    color: gray;
+    font-size: 80%;
+}
+p {
+    text-indent: 2em;
+    line-height: 1.8em;
+}
