@@ -1,5 +1,5 @@
 body {
-    font-size: 12px;
+    font-size: 14px;
 }
 .banner {
     background-image: url("images/wavyboi.jpg");
@@ -51,4 +51,26 @@ h2 {
 p {
     text-indent: 2em;
     line-height: 1.8em;
+}
+nav ul {
+    list-style-type: none;
+}
+nav ul li a:hover,
+nav ul li a:focus {
+    font-size: 1.1em;
+}
+nav ul li a:link {
+    color: #155432;
+}
+nav ul li a:visited {
+    color: #2c965d;
+}
+nav ul li a:active {
+    color: #a83832;
+}
+table tr:nth-child(even){
+    background-color: #60f086;
+}
+table tr:nth-child(odd){
+    background-color: #2c965d;
 }
